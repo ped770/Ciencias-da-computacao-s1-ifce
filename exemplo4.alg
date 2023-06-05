@@ -1,8 +1,8 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor : Pedro Silva
 // Data : 05/06/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
     ful, cic, ano: real
 inicio
@@ -17,6 +17,6 @@ inicio
           escreval("Fulano tem ", ful, "mts")
           
     ate(cic > ful)
-          escreval("Você levou ", ano, " anos para ficar maior que fulano")
+          escreval("VocÃª levou ", ano, " anos para ficar maior que fulano")
     
 fimalgoritmo
